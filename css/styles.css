@@ -350,7 +350,7 @@ h2.title {
   margin-right: 24px;
   margin-bottom: 48px;
   max-width: calc((100% - 48px) / 3);
-  background: var(--color-primary-white);
+  background-color: var(--color-primary-white);
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
